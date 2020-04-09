@@ -1,6 +1,8 @@
 # Go Buildpack Changelog
 
 ## Unreleased
+* Add go1.13.10, use for go1.13
+* Add go1.14.2, use for go1.14
 
 ## v139 (2020-03-23)
 * Update shunit2
